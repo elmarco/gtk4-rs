@@ -32,6 +32,7 @@ pub use crate::tree_model_filter::TreeModelFilterExtManual;
 pub use crate::tree_sortable::TreeSortableExtManual;
 pub use crate::tree_store::TreeStoreExtManual;
 pub use crate::widget::{InitializingWidgetExt, WidgetExtManual};
+pub use crate::shortcut_trigger::ShortcutTriggerExtManual;
 
 #[doc(hidden)]
 pub use gdk::prelude::*;
